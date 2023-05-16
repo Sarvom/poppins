@@ -3,10 +3,6 @@
 -- import: fifthtry.github.io/package-doc/forest-theme as ds
 -- import: fifthtry.github.io/package-doc/footer
 
-;; ⚠️fastn-builders::⚠️ before using this file please find and replace <font-name>
-;; with font name you have given inside 
-;; `sarvom.github.io/poppins/FASTN.ftd file
-
 
 
 
