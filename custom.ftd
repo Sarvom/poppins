@@ -116,13 +116,13 @@ color: $inherited.colors.text-strong
 -- ftd.type poppins-size-12-desktop:
 size.px: 12
 weight: 400
-font-family: $poppins-assets.fonts.poppins
+font-family: $poppins-assets.fonts.Poppins
 
 
 -- ftd.type poppins-size-12-mobile:
 size.px: 12
 weight: 400
-font-family: $poppins-assets.fonts.poppins
+font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.responsive-type poppins-size-12-400:
 desktop: $poppins-size-12-desktop
